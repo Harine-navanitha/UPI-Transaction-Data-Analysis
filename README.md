@@ -7,13 +7,7 @@
 
 ---
 
-## 👥 Team Members
 
-| Name | Reg No |
-|------|--------|
-| Harine Navanitha A.P | 25MBAFTPY0010 |
-| Harini V | 25MBAFTPY0037 |
-| Udhayasri S | 25MBAFTPY0041 |
 
 **Guide:** Dr. C. Punitha Devi
 
